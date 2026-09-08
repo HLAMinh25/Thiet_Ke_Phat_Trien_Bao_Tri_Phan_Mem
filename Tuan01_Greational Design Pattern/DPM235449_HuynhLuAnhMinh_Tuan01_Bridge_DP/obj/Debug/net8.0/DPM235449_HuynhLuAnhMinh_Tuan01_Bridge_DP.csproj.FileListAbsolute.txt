@@ -1,0 +1,14 @@
+D:\Greational\DPM235\Greational Design Pattern\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP\bin\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP.exe
+D:\Greational\DPM235\Greational Design Pattern\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP\bin\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP.deps.json
+D:\Greational\DPM235\Greational Design Pattern\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP\bin\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP.runtimeconfig.json
+D:\Greational\DPM235\Greational Design Pattern\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP\bin\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP.dll
+D:\Greational\DPM235\Greational Design Pattern\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP\bin\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP.pdb
+D:\Greational\DPM235\Greational Design Pattern\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP\obj\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Greational\DPM235\Greational Design Pattern\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP\obj\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP.AssemblyInfoInputs.cache
+D:\Greational\DPM235\Greational Design Pattern\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP\obj\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP.AssemblyInfo.cs
+D:\Greational\DPM235\Greational Design Pattern\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP\obj\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP.csproj.CoreCompileInputs.cache
+D:\Greational\DPM235\Greational Design Pattern\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP\obj\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP.dll
+D:\Greational\DPM235\Greational Design Pattern\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP\obj\Debug\net8.0\refint\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP.dll
+D:\Greational\DPM235\Greational Design Pattern\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP\obj\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP.pdb
+D:\Greational\DPM235\Greational Design Pattern\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP\obj\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP.genruntimeconfig.cache
+D:\Greational\DPM235\Greational Design Pattern\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP\obj\Debug\net8.0\ref\DPM235449_HuynhLuAnhMinh_Tuan01_Bridge_DP.dll
