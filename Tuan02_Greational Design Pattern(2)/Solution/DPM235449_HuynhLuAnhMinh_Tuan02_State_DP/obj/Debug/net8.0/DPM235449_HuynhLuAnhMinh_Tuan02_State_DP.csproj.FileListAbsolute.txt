@@ -1,0 +1,14 @@
+Z:\BehavioralPatterns\Tuan02_Greational Design Pattern(2)\Solution\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP\bin\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP.exe
+Z:\BehavioralPatterns\Tuan02_Greational Design Pattern(2)\Solution\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP\bin\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP.deps.json
+Z:\BehavioralPatterns\Tuan02_Greational Design Pattern(2)\Solution\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP\bin\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP.runtimeconfig.json
+Z:\BehavioralPatterns\Tuan02_Greational Design Pattern(2)\Solution\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP\bin\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP.dll
+Z:\BehavioralPatterns\Tuan02_Greational Design Pattern(2)\Solution\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP\bin\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP.pdb
+Z:\BehavioralPatterns\Tuan02_Greational Design Pattern(2)\Solution\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP\obj\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BehavioralPatterns\Tuan02_Greational Design Pattern(2)\Solution\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP\obj\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP.AssemblyInfoInputs.cache
+Z:\BehavioralPatterns\Tuan02_Greational Design Pattern(2)\Solution\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP\obj\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP.AssemblyInfo.cs
+Z:\BehavioralPatterns\Tuan02_Greational Design Pattern(2)\Solution\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP\obj\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP.csproj.CoreCompileInputs.cache
+Z:\BehavioralPatterns\Tuan02_Greational Design Pattern(2)\Solution\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP\obj\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP.dll
+Z:\BehavioralPatterns\Tuan02_Greational Design Pattern(2)\Solution\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP\obj\Debug\net8.0\refint\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP.dll
+Z:\BehavioralPatterns\Tuan02_Greational Design Pattern(2)\Solution\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP\obj\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP.pdb
+Z:\BehavioralPatterns\Tuan02_Greational Design Pattern(2)\Solution\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP\obj\Debug\net8.0\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP.genruntimeconfig.cache
+Z:\BehavioralPatterns\Tuan02_Greational Design Pattern(2)\Solution\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP\obj\Debug\net8.0\ref\DPM235449_HuynhLuAnhMinh_Tuan02_State_DP.dll
